@@ -1,0 +1,9 @@
+h1 {
+  color: navy;
+}
+
+button {
+  border: 3px solid #cc0000;
+  background-color: #ffffff;
+  color: cc0000;
+}
